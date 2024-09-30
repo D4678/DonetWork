@@ -1,0 +1,14 @@
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\bin\Debug\net8.0\Delegate_Ex_Five.exe
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\bin\Debug\net8.0\Delegate_Ex_Five.deps.json
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\bin\Debug\net8.0\Delegate_Ex_Five.runtimeconfig.json
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\bin\Debug\net8.0\Delegate_Ex_Five.dll
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\bin\Debug\net8.0\Delegate_Ex_Five.pdb
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.AssemblyInfoInputs.cache
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.AssemblyInfo.cs
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.csproj.CoreCompileInputs.cache
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.dll
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\refint\Delegate_Ex_Five.dll
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.pdb
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\Delegate_Ex_Five.genruntimeconfig.cache
+D:\C#\Delegate_Ex_Five\Delegate_Ex_Five\obj\Debug\net8.0\ref\Delegate_Ex_Five.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Delegates_Examples_four/1.0.0": {
+        "runtime": {
+          "Delegates_Examples_four.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates_Examples_four/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

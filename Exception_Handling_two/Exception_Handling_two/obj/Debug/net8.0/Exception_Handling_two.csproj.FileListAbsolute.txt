@@ -1,0 +1,14 @@
+D:\C#\Exception_Handling_two\Exception_Handling_two\bin\Debug\net8.0\Exception_Handling_two.exe
+D:\C#\Exception_Handling_two\Exception_Handling_two\bin\Debug\net8.0\Exception_Handling_two.deps.json
+D:\C#\Exception_Handling_two\Exception_Handling_two\bin\Debug\net8.0\Exception_Handling_two.runtimeconfig.json
+D:\C#\Exception_Handling_two\Exception_Handling_two\bin\Debug\net8.0\Exception_Handling_two.dll
+D:\C#\Exception_Handling_two\Exception_Handling_two\bin\Debug\net8.0\Exception_Handling_two.pdb
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.AssemblyInfoInputs.cache
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.AssemblyInfo.cs
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.csproj.CoreCompileInputs.cache
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.dll
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\refint\Exception_Handling_two.dll
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.pdb
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\Exception_Handling_two.genruntimeconfig.cache
+D:\C#\Exception_Handling_two\Exception_Handling_two\obj\Debug\net8.0\ref\Exception_Handling_two.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\bin\Debug\net8.0\Enums_Part_two.exe
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\bin\Debug\net8.0\Enums_Part_two.deps.json
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\bin\Debug\net8.0\Enums_Part_two.runtimeconfig.json
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\bin\Debug\net8.0\Enums_Part_two.dll
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\bin\Debug\net8.0\Enums_Part_two.pdb
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.AssemblyInfo.cs
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.dll
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\refint\Enums_Part_two.dll
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.pdb
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\Enums_Part_two.genruntimeconfig.cache
+C:\Users\USER\source\repos\Enums_Part_two\Enums_Part_two\obj\Debug\net8.0\ref\Enums_Part_two.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\bin\Debug\net8.0\DataType_Conversion.exe
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\bin\Debug\net8.0\DataType_Conversion.deps.json
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\bin\Debug\net8.0\DataType_Conversion.runtimeconfig.json
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\bin\Debug\net8.0\DataType_Conversion.dll
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\bin\Debug\net8.0\DataType_Conversion.pdb
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.AssemblyInfo.cs
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.dll
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\refint\DataType_Conversion.dll
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.pdb
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\DataType_Conversion.genruntimeconfig.cache
+C:\Users\USER\source\repos\DataType_Conversion\DataType_Conversion\obj\Debug\net8.0\ref\DataType_Conversion.dll

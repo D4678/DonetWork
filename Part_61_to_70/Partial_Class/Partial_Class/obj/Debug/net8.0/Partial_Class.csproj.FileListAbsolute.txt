@@ -1,0 +1,14 @@
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\bin\Debug\net8.0\Partial_Class.exe
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\bin\Debug\net8.0\Partial_Class.deps.json
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\bin\Debug\net8.0\Partial_Class.runtimeconfig.json
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\bin\Debug\net8.0\Partial_Class.dll
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\bin\Debug\net8.0\Partial_Class.pdb
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.AssemblyInfoInputs.cache
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.AssemblyInfo.cs
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.csproj.CoreCompileInputs.cache
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.dll
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\refint\Partial_Class.dll
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.pdb
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\Partial_Class.genruntimeconfig.cache
+D:\C#\Part_61_to_70\Partial_Class\Partial_Class\obj\Debug\net8.0\ref\Partial_Class.dll

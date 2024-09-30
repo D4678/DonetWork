@@ -1,0 +1,14 @@
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\bin\Debug\net8.0\Delegates_Examples_four.exe
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\bin\Debug\net8.0\Delegates_Examples_four.deps.json
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\bin\Debug\net8.0\Delegates_Examples_four.runtimeconfig.json
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\bin\Debug\net8.0\Delegates_Examples_four.dll
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\bin\Debug\net8.0\Delegates_Examples_four.pdb
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.AssemblyInfoInputs.cache
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.AssemblyInfo.cs
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.csproj.CoreCompileInputs.cache
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.dll
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\refint\Delegates_Examples_four.dll
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.pdb
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\Delegates_Examples_four.genruntimeconfig.cache
+D:\C#\Delegates_Examples_four\Delegates_Examples_four\obj\Debug\net8.0\ref\Delegates_Examples_four.dll

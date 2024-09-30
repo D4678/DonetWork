@@ -1,0 +1,14 @@
+D:\C#\String_type\String_type\bin\Debug\net8.0\String_type.exe
+D:\C#\String_type\String_type\bin\Debug\net8.0\String_type.deps.json
+D:\C#\String_type\String_type\bin\Debug\net8.0\String_type.runtimeconfig.json
+D:\C#\String_type\String_type\bin\Debug\net8.0\String_type.dll
+D:\C#\String_type\String_type\bin\Debug\net8.0\String_type.pdb
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.AssemblyInfoInputs.cache
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.AssemblyInfo.cs
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.csproj.CoreCompileInputs.cache
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.dll
+D:\C#\String_type\String_type\obj\Debug\net8.0\refint\String_type.dll
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.pdb
+D:\C#\String_type\String_type\obj\Debug\net8.0\String_type.genruntimeconfig.cache
+D:\C#\String_type\String_type\obj\Debug\net8.0\ref\String_type.dll

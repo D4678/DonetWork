@@ -1,0 +1,16 @@
+D:\C#\Window Forms Application\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.exe
+D:\C#\Window Forms Application\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.deps.json
+D:\C#\Window Forms Application\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.runtimeconfig.json
+D:\C#\Window Forms Application\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.dll
+D:\C#\Window Forms Application\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.pdb
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.Form1.resources
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.csproj.GenerateResource.cache
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.AssemblyInfoInputs.cache
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.AssemblyInfo.cs
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.csproj.CoreCompileInputs.cache
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.dll
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\refint\ListBox.dll
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.pdb
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.genruntimeconfig.cache
+D:\C#\Window Forms Application\ListBox\ListBox\obj\Debug\net8.0-windows\ref\ListBox.dll

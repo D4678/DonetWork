@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Enums_Part_One\Enums_Part_One\obj\Debug\net8.0\Enums_Part_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Enums_Part_One\Enums_Part_One\obj\Debug\net8.0\Enums_Part_One.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Enums_Part_One\Enums_Part_One\obj\Debug\net8.0\Enums_Part_One.AssemblyInfo.cs
+C:\Users\USER\source\repos\Enums_Part_One\Enums_Part_One\obj\Debug\net8.0\Enums_Part_One.csproj.CoreCompileInputs.cache

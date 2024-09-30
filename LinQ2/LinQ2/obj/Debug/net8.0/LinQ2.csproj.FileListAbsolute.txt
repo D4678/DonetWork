@@ -1,0 +1,14 @@
+D:\C#\LinQ2\LinQ2\bin\Debug\net8.0\LinQ2.exe
+D:\C#\LinQ2\LinQ2\bin\Debug\net8.0\LinQ2.deps.json
+D:\C#\LinQ2\LinQ2\bin\Debug\net8.0\LinQ2.runtimeconfig.json
+D:\C#\LinQ2\LinQ2\bin\Debug\net8.0\LinQ2.dll
+D:\C#\LinQ2\LinQ2\bin\Debug\net8.0\LinQ2.pdb
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.AssemblyInfoInputs.cache
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.AssemblyInfo.cs
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.csproj.CoreCompileInputs.cache
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.dll
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\refint\LinQ2.dll
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.pdb
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\LinQ2.genruntimeconfig.cache
+D:\C#\LinQ2\LinQ2\obj\Debug\net8.0\ref\LinQ2.dll

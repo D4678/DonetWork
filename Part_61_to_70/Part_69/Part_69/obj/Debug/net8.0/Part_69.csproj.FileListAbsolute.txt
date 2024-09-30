@@ -1,0 +1,14 @@
+D:\C#\Part_61_to_70\Part_69\Part_69\bin\Debug\net8.0\Part_69.exe
+D:\C#\Part_61_to_70\Part_69\Part_69\bin\Debug\net8.0\Part_69.deps.json
+D:\C#\Part_61_to_70\Part_69\Part_69\bin\Debug\net8.0\Part_69.runtimeconfig.json
+D:\C#\Part_61_to_70\Part_69\Part_69\bin\Debug\net8.0\Part_69.dll
+D:\C#\Part_61_to_70\Part_69\Part_69\bin\Debug\net8.0\Part_69.pdb
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.AssemblyInfoInputs.cache
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.AssemblyInfo.cs
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.csproj.CoreCompileInputs.cache
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.dll
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\refint\Part_69.dll
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.pdb
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\Part_69.genruntimeconfig.cache
+D:\C#\Part_61_to_70\Part_69\Part_69\obj\Debug\net8.0\ref\Part_69.dll

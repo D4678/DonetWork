@@ -1,0 +1,14 @@
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\bin\Debug\net8.0\Indexers_overloading.exe
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\bin\Debug\net8.0\Indexers_overloading.deps.json
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\bin\Debug\net8.0\Indexers_overloading.runtimeconfig.json
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\bin\Debug\net8.0\Indexers_overloading.dll
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\bin\Debug\net8.0\Indexers_overloading.pdb
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.AssemblyInfoInputs.cache
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.AssemblyInfo.cs
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.csproj.CoreCompileInputs.cache
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.dll
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\refint\Indexers_overloading.dll
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.pdb
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\Indexers_overloading.genruntimeconfig.cache
+D:\C#\Part_61_to_70\Indexers_overloading\Indexers_overloading\obj\Debug\net8.0\ref\Indexers_overloading.dll

@@ -1,0 +1,14 @@
+D:\C#\Rough\Rough\bin\Debug\net8.0\Rough.exe
+D:\C#\Rough\Rough\bin\Debug\net8.0\Rough.deps.json
+D:\C#\Rough\Rough\bin\Debug\net8.0\Rough.runtimeconfig.json
+D:\C#\Rough\Rough\bin\Debug\net8.0\Rough.dll
+D:\C#\Rough\Rough\bin\Debug\net8.0\Rough.pdb
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.AssemblyInfoInputs.cache
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.AssemblyInfo.cs
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.csproj.CoreCompileInputs.cache
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.dll
+D:\C#\Rough\Rough\obj\Debug\net8.0\refint\Rough.dll
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.pdb
+D:\C#\Rough\Rough\obj\Debug\net8.0\Rough.genruntimeconfig.cache
+D:\C#\Rough\Rough\obj\Debug\net8.0\ref\Rough.dll

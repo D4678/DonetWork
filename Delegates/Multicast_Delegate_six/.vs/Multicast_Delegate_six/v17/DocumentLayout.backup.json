@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Multicast_Delegate_six\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60DB7D9-E020-407E-BCB2-D38274E82F21}|Multicast_Delegate_six\\Multicast_Delegate_six.csproj|d:\\c#\\multicast_delegate_six\\multicast_delegate_six\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60DB7D9-E020-407E-BCB2-D38274E82F21}|Multicast_Delegate_six\\Multicast_Delegate_six.csproj|solutionrelative:multicast_delegate_six\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Multicast_Delegate_six\\Multicast_Delegate_six\\Program.cs",
+              "RelativeDocumentMoniker": "Multicast_Delegate_six\\Program.cs",
+              "ToolTip": "D:\\C#\\Multicast_Delegate_six\\Multicast_Delegate_six\\Program.cs",
+              "RelativeToolTip": "Multicast_Delegate_six\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:15:05.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

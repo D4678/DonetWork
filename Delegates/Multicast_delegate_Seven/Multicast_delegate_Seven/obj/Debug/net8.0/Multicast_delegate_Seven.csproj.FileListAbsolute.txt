@@ -1,0 +1,14 @@
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\bin\Debug\net8.0\Multicast_delegate_Seven.exe
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\bin\Debug\net8.0\Multicast_delegate_Seven.deps.json
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\bin\Debug\net8.0\Multicast_delegate_Seven.runtimeconfig.json
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\bin\Debug\net8.0\Multicast_delegate_Seven.dll
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\bin\Debug\net8.0\Multicast_delegate_Seven.pdb
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.AssemblyInfoInputs.cache
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.AssemblyInfo.cs
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.csproj.CoreCompileInputs.cache
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.dll
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\refint\Multicast_delegate_Seven.dll
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.pdb
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\Multicast_delegate_Seven.genruntimeconfig.cache
+D:\C#\Multicast_delegate_Seven\Multicast_delegate_Seven\obj\Debug\net8.0\ref\Multicast_delegate_Seven.dll

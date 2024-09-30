@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Projcts\\Employee Db\\Employee Db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179F38E8-0166-4CD8-9082-5DA21985A015}|Employee Db\\Employee Db.csproj|d:\\c#\\projcts\\employee db\\employee db\\employee db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179F38E8-0166-4CD8-9082-5DA21985A015}|Employee Db\\Employee Db.csproj|solutionrelative:employee db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Projcts\\Employee Db\\Employee Db\\Employee Db\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Db\\Program.cs",
+              "ToolTip": "D:\\C#\\Projcts\\Employee Db\\Employee Db\\Employee Db\\Program.cs",
+              "RelativeToolTip": "Employee Db\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:20:27.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

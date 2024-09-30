@@ -1,0 +1,14 @@
+D:\C#\Delegates_Part_one\Delegates_Part_one\bin\Debug\net8.0\Delegates_Part_one.exe
+D:\C#\Delegates_Part_one\Delegates_Part_one\bin\Debug\net8.0\Delegates_Part_one.deps.json
+D:\C#\Delegates_Part_one\Delegates_Part_one\bin\Debug\net8.0\Delegates_Part_one.runtimeconfig.json
+D:\C#\Delegates_Part_one\Delegates_Part_one\bin\Debug\net8.0\Delegates_Part_one.dll
+D:\C#\Delegates_Part_one\Delegates_Part_one\bin\Debug\net8.0\Delegates_Part_one.pdb
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.AssemblyInfoInputs.cache
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.AssemblyInfo.cs
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.csproj.CoreCompileInputs.cache
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.dll
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\refint\Delegates_Part_one.dll
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.pdb
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\Delegates_Part_one.genruntimeconfig.cache
+D:\C#\Delegates_Part_one\Delegates_Part_one\obj\Debug\net8.0\ref\Delegates_Part_one.dll

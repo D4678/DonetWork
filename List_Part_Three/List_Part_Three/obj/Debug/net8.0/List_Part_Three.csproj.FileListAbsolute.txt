@@ -1,0 +1,14 @@
+D:\C#\List_Part_Three\List_Part_Three\bin\Debug\net8.0\List_Part_Three.exe
+D:\C#\List_Part_Three\List_Part_Three\bin\Debug\net8.0\List_Part_Three.deps.json
+D:\C#\List_Part_Three\List_Part_Three\bin\Debug\net8.0\List_Part_Three.runtimeconfig.json
+D:\C#\List_Part_Three\List_Part_Three\bin\Debug\net8.0\List_Part_Three.dll
+D:\C#\List_Part_Three\List_Part_Three\bin\Debug\net8.0\List_Part_Three.pdb
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.AssemblyInfoInputs.cache
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.AssemblyInfo.cs
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.csproj.CoreCompileInputs.cache
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.dll
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\refint\List_Part_Three.dll
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.pdb
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\List_Part_Three.genruntimeconfig.cache
+D:\C#\List_Part_Three\List_Part_Three\obj\Debug\net8.0\ref\List_Part_Three.dll

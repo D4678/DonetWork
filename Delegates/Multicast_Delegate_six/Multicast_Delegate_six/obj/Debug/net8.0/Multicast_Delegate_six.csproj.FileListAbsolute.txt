@@ -1,0 +1,14 @@
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\bin\Debug\net8.0\Multicast_Delegate_six.exe
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\bin\Debug\net8.0\Multicast_Delegate_six.deps.json
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\bin\Debug\net8.0\Multicast_Delegate_six.runtimeconfig.json
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\bin\Debug\net8.0\Multicast_Delegate_six.dll
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\bin\Debug\net8.0\Multicast_Delegate_six.pdb
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.AssemblyInfoInputs.cache
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.AssemblyInfo.cs
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.csproj.CoreCompileInputs.cache
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.dll
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\refint\Multicast_Delegate_six.dll
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.pdb
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\Multicast_Delegate_six.genruntimeconfig.cache
+D:\C#\Multicast_Delegate_six\Multicast_Delegate_six\obj\Debug\net8.0\ref\Multicast_Delegate_six.dll

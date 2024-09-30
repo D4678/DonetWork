@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Window Forms Application\\ListBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996BA378-6A38-4DBF-BEF9-43B62355A805}|ListBox\\ListBox.csproj|d:\\c#\\window forms application\\listbox\\listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996BA378-6A38-4DBF-BEF9-43B62355A805}|ListBox\\ListBox.csproj|solutionrelative:listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996BA378-6A38-4DBF-BEF9-43B62355A805}|ListBox\\ListBox.csproj|d:\\c#\\window forms application\\listbox\\listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{996BA378-6A38-4DBF-BEF9-43B62355A805}|ListBox\\ListBox.csproj|solutionrelative:listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Window Forms Application\\ListBox\\ListBox\\Form1.cs",
+              "RelativeDocumentMoniker": "ListBox\\Form1.cs",
+              "ToolTip": "D:\\C#\\Window Forms Application\\ListBox\\ListBox\\Form1.cs",
+              "RelativeToolTip": "ListBox\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAD4vxgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:35:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Window Forms Application\\ListBox\\ListBox\\Form1.cs",
+              "RelativeDocumentMoniker": "ListBox\\Form1.cs",
+              "ToolTip": "D:\\C#\\Window Forms Application\\ListBox\\ListBox\\Form1.cs [Design]",
+              "RelativeToolTip": "ListBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:23:39.718Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

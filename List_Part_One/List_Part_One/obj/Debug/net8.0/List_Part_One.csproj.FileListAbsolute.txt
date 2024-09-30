@@ -1,0 +1,14 @@
+D:\C#\List_Part_One\List_Part_One\bin\Debug\net8.0\List_Part_One.exe
+D:\C#\List_Part_One\List_Part_One\bin\Debug\net8.0\List_Part_One.deps.json
+D:\C#\List_Part_One\List_Part_One\bin\Debug\net8.0\List_Part_One.runtimeconfig.json
+D:\C#\List_Part_One\List_Part_One\bin\Debug\net8.0\List_Part_One.dll
+D:\C#\List_Part_One\List_Part_One\bin\Debug\net8.0\List_Part_One.pdb
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.AssemblyInfoInputs.cache
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.AssemblyInfo.cs
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.csproj.CoreCompileInputs.cache
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.dll
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\refint\List_Part_One.dll
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.pdb
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\List_Part_One.genruntimeconfig.cache
+D:\C#\List_Part_One\List_Part_One\obj\Debug\net8.0\ref\List_Part_One.dll

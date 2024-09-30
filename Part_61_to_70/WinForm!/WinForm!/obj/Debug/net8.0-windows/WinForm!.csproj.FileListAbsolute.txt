@@ -1,0 +1,16 @@
+D:\C#\Part_61_to_70\WinForm!\WinForm!\bin\Debug\net8.0-windows\WinForm!.exe
+D:\C#\Part_61_to_70\WinForm!\WinForm!\bin\Debug\net8.0-windows\WinForm!.deps.json
+D:\C#\Part_61_to_70\WinForm!\WinForm!\bin\Debug\net8.0-windows\WinForm!.runtimeconfig.json
+D:\C#\Part_61_to_70\WinForm!\WinForm!\bin\Debug\net8.0-windows\WinForm!.dll
+D:\C#\Part_61_to_70\WinForm!\WinForm!\bin\Debug\net8.0-windows\WinForm!.pdb
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm_.Form1.resources
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.csproj.GenerateResource.cache
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.AssemblyInfoInputs.cache
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.AssemblyInfo.cs
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.csproj.CoreCompileInputs.cache
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.dll
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\refint\WinForm!.dll
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.pdb
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\WinForm!.genruntimeconfig.cache
+D:\C#\Part_61_to_70\WinForm!\WinForm!\obj\Debug\net8.0-windows\ref\WinForm!.dll

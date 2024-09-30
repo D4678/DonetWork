@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\bin\Debug\net8.0\static_&_instance_class.exe
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\bin\Debug\net8.0\static_&_instance_class.deps.json
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\bin\Debug\net8.0\static_&_instance_class.runtimeconfig.json
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\bin\Debug\net8.0\static_&_instance_class.dll
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\bin\Debug\net8.0\static_&_instance_class.pdb
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.AssemblyInfo.cs
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.dll
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\refint\static_&_instance_class.dll
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.pdb
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\static_&_instance_class.genruntimeconfig.cache
+C:\Users\USER\source\repos\static_&_instance_class\static_&_instance_class\obj\Debug\net8.0\ref\static_&_instance_class.dll

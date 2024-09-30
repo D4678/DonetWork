@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\bin\Debug\net8.0\Csharp_Properties.exe
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\bin\Debug\net8.0\Csharp_Properties.deps.json
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\bin\Debug\net8.0\Csharp_Properties.runtimeconfig.json
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\bin\Debug\net8.0\Csharp_Properties.dll
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\bin\Debug\net8.0\Csharp_Properties.pdb
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.AssemblyInfo.cs
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.dll
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\refint\Csharp_Properties.dll
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.pdb
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\Csharp_Properties.genruntimeconfig.cache
+C:\Users\USER\source\repos\Csharp_Properties\Csharp_Properties\obj\Debug\net8.0\ref\Csharp_Properties.dll

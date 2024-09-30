@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Dictionary_Part_two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B2497D-0829-405F-B360-E8DAB9F1FD71}|Dictionary_Part_two\\Dictionary_Part_two.csproj|d:\\c#\\dictionary_part_two\\dictionary_part_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B2497D-0829-405F-B360-E8DAB9F1FD71}|Dictionary_Part_two\\Dictionary_Part_two.csproj|solutionrelative:dictionary_part_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary_Part_two\\Dictionary_Part_two\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary_Part_two\\Program.cs",
+              "ToolTip": "D:\\C#\\Dictionary_Part_two\\Dictionary_Part_two\\Program.cs",
+              "RelativeToolTip": "Dictionary_Part_two\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:57:11.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

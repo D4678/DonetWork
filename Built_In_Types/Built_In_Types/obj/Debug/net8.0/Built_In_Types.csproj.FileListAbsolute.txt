@@ -1,0 +1,14 @@
+D:\C#\Built_In_Types\Built_In_Types\bin\Debug\net8.0\Built_In_Types.exe
+D:\C#\Built_In_Types\Built_In_Types\bin\Debug\net8.0\Built_In_Types.deps.json
+D:\C#\Built_In_Types\Built_In_Types\bin\Debug\net8.0\Built_In_Types.runtimeconfig.json
+D:\C#\Built_In_Types\Built_In_Types\bin\Debug\net8.0\Built_In_Types.dll
+D:\C#\Built_In_Types\Built_In_Types\bin\Debug\net8.0\Built_In_Types.pdb
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.AssemblyInfoInputs.cache
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.AssemblyInfo.cs
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.csproj.CoreCompileInputs.cache
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.dll
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\refint\Built_In_Types.dll
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.pdb
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\Built_In_Types.genruntimeconfig.cache
+D:\C#\Built_In_Types\Built_In_Types\obj\Debug\net8.0\ref\Built_In_Types.dll

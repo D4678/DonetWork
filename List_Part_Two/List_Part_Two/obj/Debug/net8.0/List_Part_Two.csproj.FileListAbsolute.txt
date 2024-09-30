@@ -1,0 +1,14 @@
+D:\C#\List_Part_Two\List_Part_Two\bin\Debug\net8.0\List_Part_Two.exe
+D:\C#\List_Part_Two\List_Part_Two\bin\Debug\net8.0\List_Part_Two.deps.json
+D:\C#\List_Part_Two\List_Part_Two\bin\Debug\net8.0\List_Part_Two.runtimeconfig.json
+D:\C#\List_Part_Two\List_Part_Two\bin\Debug\net8.0\List_Part_Two.dll
+D:\C#\List_Part_Two\List_Part_Two\bin\Debug\net8.0\List_Part_Two.pdb
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.AssemblyInfoInputs.cache
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.AssemblyInfo.cs
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.csproj.CoreCompileInputs.cache
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.dll
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\refint\List_Part_Two.dll
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.pdb
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\List_Part_Two.genruntimeconfig.cache
+D:\C#\List_Part_Two\List_Part_Two\obj\Debug\net8.0\ref\List_Part_Two.dll

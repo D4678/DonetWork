@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\inheretance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0F3B26-B52D-42F8-AF0F-35CDEF98CBEE}|inheretance\\inheretance.csproj|d:\\c#\\inheretance\\inheretance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0F3B26-B52D-42F8-AF0F-35CDEF98CBEE}|inheretance\\inheretance.csproj|solutionrelative:inheretance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\inheretance\\inheretance\\Program.cs",
+              "RelativeDocumentMoniker": "inheretance\\Program.cs",
+              "ToolTip": "D:\\C#\\inheretance\\inheretance\\Program.cs",
+              "RelativeToolTip": "inheretance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:15:47.266Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

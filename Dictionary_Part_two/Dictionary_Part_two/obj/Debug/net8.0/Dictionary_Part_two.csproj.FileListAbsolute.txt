@@ -1,0 +1,14 @@
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.AssemblyInfoInputs.cache
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.AssemblyInfo.cs
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.csproj.CoreCompileInputs.cache
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\bin\Debug\net8.0\Dictionary_Part_two.exe
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\bin\Debug\net8.0\Dictionary_Part_two.deps.json
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\bin\Debug\net8.0\Dictionary_Part_two.runtimeconfig.json
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\bin\Debug\net8.0\Dictionary_Part_two.dll
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\bin\Debug\net8.0\Dictionary_Part_two.pdb
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.dll
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\refint\Dictionary_Part_two.dll
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.pdb
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\Dictionary_Part_two.genruntimeconfig.cache
+D:\C#\Dictionary_Part_two\Dictionary_Part_two\obj\Debug\net8.0\ref\Dictionary_Part_two.dll

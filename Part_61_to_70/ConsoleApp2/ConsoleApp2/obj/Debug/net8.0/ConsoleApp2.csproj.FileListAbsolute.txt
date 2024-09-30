@@ -1,0 +1,5 @@
+D:\C#\Part_61_to_70\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Part_61_to_70\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\C#\Part_61_to_70\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\C#\Part_61_to_70\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\C#\Part_61_to_70\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.AssemblyReference.cache

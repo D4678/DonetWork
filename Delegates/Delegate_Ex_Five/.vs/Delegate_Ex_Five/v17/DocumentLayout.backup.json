@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Delegate_Ex_Five\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76C1874-7DB5-42BA-A82B-6B5506219DDF}|Delegate_Ex_Five\\Delegate_Ex_Five.csproj|d:\\c#\\delegate_ex_five\\delegate_ex_five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76C1874-7DB5-42BA-A82B-6B5506219DDF}|Delegate_Ex_Five\\Delegate_Ex_Five.csproj|solutionrelative:delegate_ex_five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Delegate_Ex_Five\\Delegate_Ex_Five\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Ex_Five\\Program.cs",
+              "ToolTip": "D:\\C#\\Delegate_Ex_Five\\Delegate_Ex_Five\\Program.cs",
+              "RelativeToolTip": "Delegate_Ex_Five\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:46:31.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

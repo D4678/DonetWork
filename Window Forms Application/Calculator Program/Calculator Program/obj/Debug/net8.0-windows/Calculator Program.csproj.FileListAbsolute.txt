@@ -1,0 +1,16 @@
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\bin\Debug\net8.0-windows\Calculator Program.exe
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\bin\Debug\net8.0-windows\Calculator Program.deps.json
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\bin\Debug\net8.0-windows\Calculator Program.runtimeconfig.json
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\bin\Debug\net8.0-windows\Calculator Program.dll
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\bin\Debug\net8.0-windows\Calculator Program.pdb
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator_Program.Form1.resources
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.csproj.GenerateResource.cache
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.AssemblyInfoInputs.cache
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.AssemblyInfo.cs
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.csproj.CoreCompileInputs.cache
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.dll
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\refint\Calculator Program.dll
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.pdb
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\Calculator Program.genruntimeconfig.cache
+D:\C#\Window Forms Application\Calculator Program\Calculator Program\obj\Debug\net8.0-windows\ref\Calculator Program.dll

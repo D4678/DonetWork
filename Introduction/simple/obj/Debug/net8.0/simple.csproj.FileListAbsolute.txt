@@ -1,0 +1,14 @@
+D:\C#\simple\simple\bin\Debug\net8.0\simple.exe
+D:\C#\simple\simple\bin\Debug\net8.0\simple.deps.json
+D:\C#\simple\simple\bin\Debug\net8.0\simple.runtimeconfig.json
+D:\C#\simple\simple\bin\Debug\net8.0\simple.dll
+D:\C#\simple\simple\bin\Debug\net8.0\simple.pdb
+D:\C#\simple\simple\obj\Debug\net8.0\simple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\simple\simple\obj\Debug\net8.0\simple.AssemblyInfoInputs.cache
+D:\C#\simple\simple\obj\Debug\net8.0\simple.AssemblyInfo.cs
+D:\C#\simple\simple\obj\Debug\net8.0\simple.csproj.CoreCompileInputs.cache
+D:\C#\simple\simple\obj\Debug\net8.0\simple.dll
+D:\C#\simple\simple\obj\Debug\net8.0\refint\simple.dll
+D:\C#\simple\simple\obj\Debug\net8.0\simple.pdb
+D:\C#\simple\simple\obj\Debug\net8.0\simple.genruntimeconfig.cache
+D:\C#\simple\simple\obj\Debug\net8.0\ref\simple.dll

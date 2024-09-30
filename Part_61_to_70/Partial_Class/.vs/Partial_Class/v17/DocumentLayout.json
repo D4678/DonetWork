@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Part_61_to_70\\Partial_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|d:\\c#\\part_61_to_70\\partial_class\\partial_class\\partialclassfileone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|solutionrelative:partial_class\\partialclassfileone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|d:\\c#\\part_61_to_70\\partial_class\\partial_class\\partialclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|solutionrelative:partial_class\\partialclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|d:\\c#\\part_61_to_70\\partial_class\\partial_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E245A0D-EFF8-4D71-987D-9B4AD5EC3527}|Partial_Class\\Partial_Class.csproj|solutionrelative:partial_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialClassTwo.cs",
+              "DocumentMoniker": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\PartialClassTwo.cs",
+              "RelativeDocumentMoniker": "Partial_Class\\PartialClassTwo.cs",
+              "ToolTip": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\PartialClassTwo.cs",
+              "RelativeToolTip": "Partial_Class\\PartialClassTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:52:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialClassFileOne.cs",
+              "DocumentMoniker": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\PartialClassFileOne.cs",
+              "RelativeDocumentMoniker": "Partial_Class\\PartialClassFileOne.cs",
+              "ToolTip": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\PartialClassFileOne.cs",
+              "RelativeToolTip": "Partial_Class\\PartialClassFileOne.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:40:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\Program.cs",
+              "RelativeDocumentMoniker": "Partial_Class\\Program.cs",
+              "ToolTip": "D:\\C#\\Part_61_to_70\\Partial_Class\\Partial_Class\\Program.cs",
+              "RelativeToolTip": "Partial_Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:42:22.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

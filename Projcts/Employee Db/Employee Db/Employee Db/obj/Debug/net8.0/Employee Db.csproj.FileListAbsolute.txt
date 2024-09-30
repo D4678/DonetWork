@@ -1,0 +1,14 @@
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\bin\Debug\net8.0\Employee Db.exe
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\bin\Debug\net8.0\Employee Db.deps.json
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\bin\Debug\net8.0\Employee Db.runtimeconfig.json
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\bin\Debug\net8.0\Employee Db.dll
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\bin\Debug\net8.0\Employee Db.pdb
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.AssemblyInfoInputs.cache
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.AssemblyInfo.cs
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.csproj.CoreCompileInputs.cache
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.dll
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\refint\Employee Db.dll
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.pdb
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\Employee Db.genruntimeconfig.cache
+D:\C#\Projcts\Employee Db\Employee Db\Employee Db\obj\Debug\net8.0\ref\Employee Db.dll

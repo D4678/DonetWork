@@ -1,0 +1,14 @@
+D:\C#\Method_Parameters\Method_Parameters\bin\Debug\net8.0\Method_Parameters.exe
+D:\C#\Method_Parameters\Method_Parameters\bin\Debug\net8.0\Method_Parameters.deps.json
+D:\C#\Method_Parameters\Method_Parameters\bin\Debug\net8.0\Method_Parameters.runtimeconfig.json
+D:\C#\Method_Parameters\Method_Parameters\bin\Debug\net8.0\Method_Parameters.dll
+D:\C#\Method_Parameters\Method_Parameters\bin\Debug\net8.0\Method_Parameters.pdb
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.AssemblyInfoInputs.cache
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.AssemblyInfo.cs
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.csproj.CoreCompileInputs.cache
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.dll
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\refint\Method_Parameters.dll
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.pdb
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\Method_Parameters.genruntimeconfig.cache
+D:\C#\Method_Parameters\Method_Parameters\obj\Debug\net8.0\ref\Method_Parameters.dll

@@ -1,0 +1,14 @@
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.AssemblyInfoInputs.cache
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.AssemblyInfo.cs
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.csproj.CoreCompileInputs.cache
+D:\C#\If-else\If-else\bin\Debug\net8.0\If-else.exe
+D:\C#\If-else\If-else\bin\Debug\net8.0\If-else.deps.json
+D:\C#\If-else\If-else\bin\Debug\net8.0\If-else.runtimeconfig.json
+D:\C#\If-else\If-else\bin\Debug\net8.0\If-else.dll
+D:\C#\If-else\If-else\bin\Debug\net8.0\If-else.pdb
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.dll
+D:\C#\If-else\If-else\obj\Debug\net8.0\refint\If-else.dll
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.pdb
+D:\C#\If-else\If-else\obj\Debug\net8.0\If-else.genruntimeconfig.cache
+D:\C#\If-else\If-else\obj\Debug\net8.0\ref\If-else.dll

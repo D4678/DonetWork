@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Indexers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70933A73-76AF-4AC5-89ED-F59D29F6EE87}|Indexers\\Indexers.csproj|d:\\c#\\indexers\\indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70933A73-76AF-4AC5-89ED-F59D29F6EE87}|Indexers\\Indexers.csproj|solutionrelative:indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Indexers\\Indexers\\Program.cs",
+              "RelativeDocumentMoniker": "Indexers\\Program.cs",
+              "ToolTip": "D:\\C#\\Indexers\\Indexers\\Program.cs",
+              "RelativeToolTip": "Indexers\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:14:44.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

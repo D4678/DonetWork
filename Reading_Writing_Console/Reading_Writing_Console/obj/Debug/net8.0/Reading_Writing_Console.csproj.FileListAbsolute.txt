@@ -1,0 +1,14 @@
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\bin\Debug\net8.0\Reading_Writing_Console.exe
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\bin\Debug\net8.0\Reading_Writing_Console.deps.json
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\bin\Debug\net8.0\Reading_Writing_Console.runtimeconfig.json
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\bin\Debug\net8.0\Reading_Writing_Console.dll
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\bin\Debug\net8.0\Reading_Writing_Console.pdb
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.AssemblyInfoInputs.cache
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.AssemblyInfo.cs
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.csproj.CoreCompileInputs.cache
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.dll
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\refint\Reading_Writing_Console.dll
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.pdb
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\Reading_Writing_Console.genruntimeconfig.cache
+D:\C#\Reading_Writing_Console\Reading_Writing_Console\obj\Debug\net8.0\ref\Reading_Writing_Console.dll

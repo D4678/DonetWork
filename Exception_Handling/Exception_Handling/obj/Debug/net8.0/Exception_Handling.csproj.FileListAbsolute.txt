@@ -1,0 +1,14 @@
+D:\C#\Exception_Handling\Exception_Handling\bin\Debug\net8.0\Exception_Handling.exe
+D:\C#\Exception_Handling\Exception_Handling\bin\Debug\net8.0\Exception_Handling.deps.json
+D:\C#\Exception_Handling\Exception_Handling\bin\Debug\net8.0\Exception_Handling.runtimeconfig.json
+D:\C#\Exception_Handling\Exception_Handling\bin\Debug\net8.0\Exception_Handling.dll
+D:\C#\Exception_Handling\Exception_Handling\bin\Debug\net8.0\Exception_Handling.pdb
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.AssemblyInfoInputs.cache
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.AssemblyInfo.cs
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.csproj.CoreCompileInputs.cache
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.dll
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\refint\Exception_Handling.dll
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.pdb
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\Exception_Handling.genruntimeconfig.cache
+D:\C#\Exception_Handling\Exception_Handling\obj\Debug\net8.0\ref\Exception_Handling.dll
